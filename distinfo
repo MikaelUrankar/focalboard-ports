@@ -1,0 +1,7 @@
+TIMESTAMP = 1681838711
+SHA256 (go/sysutils_focalboard/mattermost-focalboard-v7.9.3_GH0/focalboard-7.9.3-npm-cache.tar.gz) = 97d1436144d57ad5bf3bb622ea9e5173ce88641dc776716eee7bf70894d03669
+SIZE (go/sysutils_focalboard/mattermost-focalboard-v7.9.3_GH0/focalboard-7.9.3-npm-cache.tar.gz) = 374771144
+SHA256 (go/sysutils_focalboard/mattermost-focalboard-v7.9.3_GH0/go.mod) = 6062d92b6f75cbd83835450d690fe158632e4538243200d4c4c4798edaf61898
+SIZE (go/sysutils_focalboard/mattermost-focalboard-v7.9.3_GH0/go.mod) = 5597
+SHA256 (go/sysutils_focalboard/mattermost-focalboard-v7.9.3_GH0/mattermost-focalboard-v7.9.3_GH0.tar.gz) = 792c18c762a7fefab5bfa7e1dec56fdb97e3dddfaaede713d0f2bb53d7472d62
+SIZE (go/sysutils_focalboard/mattermost-focalboard-v7.9.3_GH0/mattermost-focalboard-v7.9.3_GH0.tar.gz) = 36270935

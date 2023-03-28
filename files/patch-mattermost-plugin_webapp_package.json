@@ -1,0 +1,10 @@
+--- mattermost-plugin/webapp/package.json.orig	2023-04-23 17:24:04.284795000 +0200
++++ mattermost-plugin/webapp/package.json	2023-04-23 17:24:13.135085000 +0200
+@@ -55,7 +55,6 @@
+     "eslint-plugin-header": "3.1.1",
+     "eslint-plugin-import": "2.25.4",
+     "eslint-plugin-jquery": "1.5.1",
+-    "eslint-plugin-mattermost": "github:mattermost/eslint-plugin-mattermost#46ad99355644a719bf32082f472048f526605181",
+     "eslint-plugin-no-only-tests": "2.6.0",
+     "eslint-plugin-react": "7.29.4",
+     "eslint-plugin-react-hooks": "4.3.0",

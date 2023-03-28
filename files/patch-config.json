@@ -1,0 +1,11 @@
+--- config.json.orig	2023-03-20 13:33:08 UTC
++++ config.json
+@@ -6,7 +6,7 @@
+ 	"dbtableprefix": "",
+ 	"postgres_dbconfig": "dbname=focalboard sslmode=disable",
+ 	"useSSL": false,
+-	"webpath": "./webapp/pack",
++	"webpath": "DATADIR/webapp/pack",
+ 	"filesdriver": "local",
+ 	"filespath": "./files",
+ 	"telemetry": true,

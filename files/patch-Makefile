@@ -1,0 +1,13 @@
+--- Makefile.orig	2023-03-18 15:41:06.832703000 +0100
++++ Makefile	2023-03-18 15:41:23.615491000 +0100
+@@ -34,8 +34,8 @@ prebuild: ## Run prebuild actions (install dependencie
+ all: webapp server ## Build server and webapp.
+ 
+ prebuild: ## Run prebuild actions (install dependencies etc.).
+-	cd webapp; npm install
+-	cd mattermost-plugin/webapp; npm install
++	cd webapp; npm install --ignore-scripts --offline
++	cd mattermost-plugin/webapp; npm install --ignore-scripts --offline
+ 
+ ci: webapp-ci server-test ## Simulate CI, locally.
+ 
